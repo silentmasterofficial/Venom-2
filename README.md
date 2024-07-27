@@ -10,9 +10,9 @@
 ### If you want to deploy somewhere else, upload your creds.json in session folder after getting pair code on replit. 
 
 ### 1. <a href="https://github.com/silentmasterofficial/Venom-2/fork"><img src="https://img.shields.io/badge/FORK-black" alt="Click Here to fork Venom-2" width="70"></a>
-### 2. <a href="https://replit.com/@davidcyrilx2005/Xeon-PairCode-1"><img src="https://img.shields.io/badge/PAIR_CODE-red" alt="Click Here to Get Pair-Code" width="90"></a>
+### 2. <a href="https://replit.com/@davidcyrilx2005/Xeon-PairCode-1"><img src="https://img.shields.io/badge/PAIR_CODE-black" alt="Click Here to Get Pair-Code" width="90"></a>
 ### 3. <a href="https://bot-hosting.net/?aff=1241255710294151218"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-Red" alt="Click Here to Deploy on Panel" width="120"></a>
-### 4. <a href='https://replit.com/github/silentmasterofficial/Venom-2' target="_blank"><img alt='Deploy On Replit' src='https://img.shields.io/badge/-Deploy On Replit-black?style=for-the-badge&logo=replit&logoColor=blue'/></a>
+### 4. <a href='https://replit.com/github/silentmasterofficial/Venom-2' target="_blank"><img alt='Deploy On Replit' src='https://img.shields.io/badge/-Deploy On Replit-yellow?style=for-the-badge&logo=replit&logoColor=blue'/></a>
 
 
 </br>
