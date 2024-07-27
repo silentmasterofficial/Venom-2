@@ -13,7 +13,7 @@
 ### 2. <a href="https://replit.com/@davidcyrilx2005/Xeon-PairCode-1"><img src="https://img.shields.io/badge/PAIR_CODE-orange" alt="Click Here to Get Pair-Code" width="90"></a>
 ### 3. <a href="https://bot-hosting.net/?aff=1241255710294151218"><img src="https://img.shields.io/badge/DEPLOY ON PANEL-Red" alt="Click Here to Deploy on Panel" width="120"></a>
 ### 4. <a href='https://replit.com/github/silentmasterofficial/Venom-2' target="_blank"><img alt='Deploy On Replit' src='https://img.shields.io/badge/-Deploy On Replit-yellow?style=for-the-badge&logo=replit&logoColor=blue'/></a>
-### .5 <a href='https://wa.me/923319234418' target="_blank"><img alt='Es pr click karo es mn mara whatsapp number hai jas ko bt bot lagwana ho click kar ka muj sy bt kar sakta hai cheap rate mn laga dun ga ' src='https://img.shields.io/badge/-Es pr click karo es mn mara whatsapp number hai jas ko bt bot lagwana ho click kar ka muj sy bt kar sakta hai cheap rate mn laga dun ga-red?style=for-the-badge&logo=WhatsApp&logoColor=yellow'/></a>
+### .5 <a href='https://wa.me/923319234418' target="_blank"><img alt='Es pr click karo es mn mara whatsapp number hai jas ko bt bot lagwana ho click kar ka muj sy bt kar sakta hai cheap rate mn laga dun ga ' src='https://img.shields.io/badge/-Es pr click karo es mn mara whatsapp number hai jas ko bt bot lagwana ho click kar ka muj sy bt kar sakta hai cheap rate mn laga dun ga-red?style=for-the-badge&logo=WhatsApp&logoColor=yellow'/> width="250"></a>
 
 
 </br>
