@@ -4,26 +4,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "27614622387","923353256129"
+global.ownernomer = "923319234418"
 global.ownername = "David Cyril"
 global.ytname = "David Cyril"
 global.socialm = "GitHub: DeeCeeXxx"
 global.location = "Africa, Nigeria, Lagos"
 
-global.ownernumber = "27614622387","923353256129"  //creator number
+global.ownernumber = "923319234418"  //creator number
 global.ownername = 'David Cyril' //owner name
 global.botname = '🕷Venom-2🕷' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'David_Cyril\n\nContact: +2349066528353'
+global.author = 'David_Cyril\n\nContact: +923319234418'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "David Cyril Tech."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaePi7yGE56dkk4s4T0J'
+global.link = 'https://whatsapp.com/channel/0029Vajmt9uAjPXOiehGJi22'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -53,13 +53,13 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by premium user only',
-    admin: 'This feature can be used by admin only',
-    botAdmin: 'This feature can only be used when the bot is a group admin ',
-    owner: 'This feature can be used by owner only',
+    prem: 'This feature can be used by premium user only X Hani',
+    admin: 'This feature can be used by admin only X Hani',
+    botAdmin: 'This feature can only be used when the bot is a group admin X Hani ',
+    owner: 'This feature can be used by owner only X Hani',
     group: 'This feature is only for groups',
     private: 'This feature is only for private chats',
-    wait: 'In process... ',    
+    wait: 'In process... X Hani ',    
     error: 'Error!',
 }
 
